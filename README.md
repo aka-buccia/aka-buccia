@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Pleased+to+meet+you.;i'm+(also)+known+as+;BUCCIA)](https://git.io/typing-svg)
