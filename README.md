@@ -6,5 +6,5 @@ Currently studying:
 - Mobile developement
 
 Find me on:
-- Unsplash: [unsplash.com/@aka-buccia]()
-- Wikimedia: [commons.wikimedia.org/wiki/Special:ListFiles/Bucciax]()
+- Unsplash: [unsplash.com/@aka-buccia](https://unsplash.com/@aka-buccia)
+- Wikimedia: [commons.wikimedia.org/wiki/Special:ListFiles/Bucciax](https://commons.wikimedia.org/wiki/Special:ListFiles/Bucciax)
