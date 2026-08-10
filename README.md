@@ -2,8 +2,8 @@
 
 Currently studying:
 - FaaS and Choreographic programming
-- AST and visitors for static analisis
-- Mobile developement
+- AST and visitors for static analysis
+- Mobile development
 
 Find me on:
 - Unsplash: [unsplash.com/@aka-buccia](https://unsplash.com/@aka-buccia)
